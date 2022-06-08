@@ -184,7 +184,7 @@ li {
     grid-template-rows: 100px 100px 100px 100px 100px;
     width: 100%;
     gap: 15px;
-    background-image: url(/images/guyHeroLarge.png);
+    background-image: url(./images/guyHeroLarge.png);
   }
 
   .nav-container {
